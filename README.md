@@ -120,7 +120,7 @@ Performance comparison across multiple benchmarks:
 
 ![performence](image/README/performence.png)
 
-Detailed results and methodology can be found in the [paper](./docs/paper.pdf).
+Detailed results and methodology can be found in the [paper](https://arxiv.org/abs/2411.11909).
 
 ---
 
