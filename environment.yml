@@ -1,4 +1,4 @@
-name: openflamingo
+name: SymDPO
 channels:
   - conda-forge
   - defaults
