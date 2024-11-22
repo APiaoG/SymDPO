@@ -139,3 +139,30 @@ If you have any questions or suggestions, feel free to reach out:
 - Email: jiahongrui@stu.pku.edu.cn
 
 ---
+
+### 📝 Citing
+
+If you found this repository useful, please consider citing:
+
+```bibtex
+@misc{jia2024symdpoboostingincontextlearning,
+      title={SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization}, 
+      author={Hongrui Jia and Chaoya Jiang and Haiyang Xu and Wei Ye and Mengfan Dong and Ming Yan and Ji Zhang and Fei Huang and Shikun Zhang},
+      year={2024},
+      eprint={2411.11909},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.11909}, 
+}
+```
+
+```bibtex
+@article{awadalla2023openflamingo,
+  title={OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models},
+  author={Anas Awadalla and Irena Gao and Josh Gardner and Jack Hessel and Yusuf Hanafy and Wanrong Zhu and Kalyani Marathe and Yonatan Bitton and Samir Gadre and Shiori Sagawa and Jenia Jitsev and Simon Kornblith and Pang Wei Koh and Gabriel Ilharco and Mitchell Wortsman and Ludwig Schmidt},
+  journal={arXiv preprint arXiv:2308.01390},
+  year={2023}
+}
+```
+
+---
