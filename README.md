@@ -4,6 +4,12 @@
 ![GitHub forks](https://img.shields.io/github/forks/APiaoG/SymDPO?style=social) -->
 <!-- ![License](https://img.shields.io/github/license/APiaoG/SymDPO) -->
 
+![Github stars](https://img.shields.io/github/stars/APiaoG/SymDPO.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/APiaoG/SymDPO)
+[![GitHub pull request](https://img.shields.io/badge/PRs-welcome-blue)](https://github.com/APiaoG/SymDPO/pulls)
+<!-- [![Huggingface Paper](https://img.shields.io/badge/🤗-Hugging%20Face%20Paper-blue)](https://huggingface.co/papers/2411.11909) -->
+
+
 **SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization** [[Paper](https://arxiv.org/abs/2411.11909)] <br>
 
 
