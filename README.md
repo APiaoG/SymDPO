@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/APiaoG/SymDPO?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/APiaoG/SymDPO?style=social)
-![License](https://img.shields.io/github/license/APiaoG/SymDPO)
+<!-- ![License](https://img.shields.io/github/license/APiaoG/SymDPO) -->
 
 **SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization** [[Paper](https://arxiv.org/abs/2411.11909)] <br>
 
@@ -125,11 +125,11 @@ Detailed results and methodology can be found in the [paper](https://arxiv.org/a
 ---
 
 
-## 📄 License
+<!-- ## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE).
 
----
+--- -->
 
 ## 📧 Contact
 
